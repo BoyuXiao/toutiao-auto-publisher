@@ -26,8 +26,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
-cd <project-name>
+git clone https://github.com/BoyuXiao/toutiao-auto-publisher.git
+cd toutiao-auto-publisher
 ```
 
 ### 2. 安装依赖
